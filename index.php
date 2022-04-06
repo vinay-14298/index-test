@@ -6,6 +6,6 @@
     <title>PHP - Hello, World!</title>
 </head>
 <body>
-        <h1><?php echo 'Hello,vinay babu World!'; ?></h1>
+        <h1><?php echo 'Hello,vinay babu so siva World!'; ?></h1>
 </body>
 </html>
