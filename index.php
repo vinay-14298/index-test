@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP - Hello, World Vinay Babu Minnakanti!</title>
+    <title>Alert</title>
 </head>
 <body>
-        <h1><?php echo 'Hello, World! vinay babu minnakanti'; ?></h1>
+        <h1><?php echo 'Server is under Maintanance. Will get back soon'; ?></h1>
 </body>
 </html>
